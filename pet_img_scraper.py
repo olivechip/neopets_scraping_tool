@@ -37,7 +37,7 @@ if not os.path.exists("imgs"):
 if not os.path.exists("urls"):
     os.makedirs("urls")
 
-# Construct headers with cookies (replace placeholders with your actual cookies)
+# Construct headers with cookies
 headers = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
     "accept-encoding": "gzip, deflate, br, zstd",
