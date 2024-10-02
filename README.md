@@ -1,10 +1,11 @@
 # Neopets Image Scraper
 
-This tool scrapes images from SunnyNeo, a Neopets fansite, and downloads them to your local machine.
+This tool scrapes pet images from SunnyNeo, a Neopets fansite, and downloads them to your local machine.
 
 Disclaimer:
 
 I developed this web scraping tool that efficiently downloads Neopets images from SunnyNeo. The tool itself is my original work, and I hold the copyright to the code. 
+
 This tool is intended for educational and personal use only. The images downloaded using this tool are the property of Neopets and are subject to their terms of service. I do not claim any ownership or copyright over the downloaded images. Please use this tool responsibly and ethically, respecting Neopets' terms of service and usage policies.
 
 ## How to use

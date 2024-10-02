@@ -8,27 +8,27 @@ colors = ["Red", "Blue", "Green", "Yellow"]
 
 # Commented out species are currently inactive on Neopets
 species = [
-    # "Acara", "Aisha", "Blumaroo", "Bori", "Bruce", "Buzz", "Chia", 
+    "Acara", "Aisha", "Blumaroo", "Bori", "Bruce", "Buzz", "Chia", 
     # "Chomby", "Cybunny", "Draik", 
-    # "Elephante", "Eyrie", "Flotsam", "Gelert", "Gnorbu", "Grarrl", 
+    "Elephante", "Eyrie", "Flotsam", "Gelert", "Gnorbu", "Grarrl", 
     #"Grundo", "Hissi", 
     "Ixi", 
     # "Jetsam", 
-    # "Jubjub", "Kacheek", "Kau", 
+    "Jubjub", "Kacheek", "Kau", 
     # "Kiko", "Koi", 
-    # "Korbat", "Kougra", 
+    "Korbat", "Kougra", 
     # "Krawk", 
-    # "Kyrii", "Lenny", "Lupe", 
+    "Kyrii", "Lenny", "Lupe", 
     # "Lutari", 
-    # "Meerca", "Moehog", 
-    # "Mynci", "Nimmo", "Ogrin", "Peophin", 
+    "Meerca", "Moehog", 
+    "Mynci", "Nimmo", "Ogrin", "Peophin", 
     # "Poogle", 
-    # "Pteri", "Quiggle", 
+    "Pteri", "Quiggle", 
     # "Ruki", 
-    # "Scorchio", "Shoyru", "Skeith", "Techo", 
+    "Scorchio", "Shoyru", "Skeith", "Techo", 
     # "Tonu", 
-    # "Tuskaninny", "Uni", "Usul", 
-    # "Vandagyre", "Wocky", "Xweetok", "Yurble", "Zafara"
+    "Tuskaninny", "Uni", "Usul", 
+    "Vandagyre", "Wocky", "Xweetok", "Yurble", "Zafara"
 ]
 
 # Create the 'imgs' and 'urls' folders if they don't exist
