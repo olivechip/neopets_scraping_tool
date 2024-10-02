@@ -19,4 +19,5 @@ Remember to respect Neopets' terms of service and usage policies. Do not overloa
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE.txt` file for details.
+
 Copyright (c) 2024 olivechip
