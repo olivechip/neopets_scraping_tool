@@ -37,7 +37,7 @@ if not os.path.exists("imgs"):
 if not os.path.exists("urls"):
     os.makedirs("urls")
 
-# Construct headers with cookies
+# Construct request headers
 headers = {
     "accept-language": "en-US,en;q=0.9",
     "referer": "https://www.sunnyneo.com/",
