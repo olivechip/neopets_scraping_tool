@@ -2,13 +2,9 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-moods = ["Happy", 
-# "Sad", "Angry", "Sick"
-]
+moods = ["Happy", "Sad", "Angry", "Sick"]
 genders = ["male", "female"]
-colors = ["Red", 
-# "Blue", "Green", "Yellow"
-]
+colors = ["Red", "Blue", "Green", "Yellow"]
 
 # Commented out species are currently inactive on Neopets
 species = [
