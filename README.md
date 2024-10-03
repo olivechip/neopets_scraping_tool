@@ -16,6 +16,10 @@ You can customize the `species` list in the `pet_img_scraper.py` file to include
 
 Remember to respect Neopets' terms of service and usage policies. Do not overload their servers with requests, and use this tool responsibly and ethically.
 
+## Contact
+
+* Oliver C - [https://www.linkedin.com/in/ochang89/]
+  
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE.txt` file for details.
